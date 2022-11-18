@@ -7,4 +7,5 @@ Este segundo reto se va a enfocar en el manejo de estado de una aplicación. La 
 - Javier Fernando Gamboa Torres
 - Danilo José Gómez Comas
 - Jhonnys de Avila
-# Link video Youtube:
+# Link del video:
+https://uninorte-my.sharepoint.com/:v:/g/personal/jfgamboa_uninorte_edu_co/EevUKbEJH8JGoYwDzreC8gQBN8hHGRMw7Dpcvoq8_8eI_g
