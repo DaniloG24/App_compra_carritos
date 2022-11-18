@@ -1,4 +1,4 @@
-# Reto 1, Ciclo 4
+# Reto 2, Ciclo 4
 # Aplicación de carrito de compras
 # Equipo 11
 Este segundo reto se va a enfocar en el manejo de estado de una aplicación. La meta es completar el proyecto base para lograr una aplicación completamente funcional.
